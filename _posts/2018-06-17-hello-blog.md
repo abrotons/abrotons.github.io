@@ -8,17 +8,18 @@ Let's try some markdown here:
 
 From bash:
 
-```bash
+
+~~~bash
 cat blog.txt | grep markdown > result.txt
-```
+~~~
 
 From javascript:
 
 
-```javascript
+~~~javascript
 function helloBlog() {
   console.log("Hello, there!");
 }
 
-```
+~~~
 
