@@ -1,2 +1,4 @@
 name: Arturo Brotons, Software developer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
